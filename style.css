@@ -1,0 +1,42 @@
+
+.links:hover {
+    font-size:25px;
+    text-decoration: underline;
+}
+}
+h1 {
+    color:rgb(176, 98, 248);
+    font-family:arial;
+}
+#sfs {
+background-color: rgb(171, 121, 252);
+color:ghostwhite;
+}
+body {
+    background-color:rgb(211, 123, 255);
+}
+#campus {
+    color:mediumaquamarine;
+    background-color: rgb(230, 80, 80);
+}
+h2 {
+    color:moccasin;
+}
+h3 {
+    color:pink;
+}
+p {
+    color:seashell;
+}
+#achievements {
+    background-color:slateblue;
+    color:yellowgreen;
+}
+#about {
+    background-color:tomato;
+    color:thistle;
+}
+#us {
+    background-color:violet;
+    color:turquoise;
+}
